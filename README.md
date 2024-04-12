@@ -3,7 +3,7 @@
 
 
 - 🌎 I'm a Brazilian developer.
-- 📚 I'm 17 years old and I've just finished High School (currently studying to find a job)
+- 📚 I'm 19 years old and I've currently working at Assert
 
 
 <div align="center">
